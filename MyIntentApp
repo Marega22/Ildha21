@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Biodata Diri</string>
+    <string name="move_activity">Activity Kosong</string>
+    <string name="move_with_data">Biodata Ildha</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+</resources>
